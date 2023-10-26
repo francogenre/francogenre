@@ -1,5 +1,6 @@
 # 💫 About Me:
 Actualmente trabajo en el rubro de las energías renovables, y desde hace unos años decidí dar un giro a mi carrera hacia la programación, por lo que comencé a prepararme para ello.
+Actualmente estudio la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional de San Rafael, Mendoza, Argentina.
 
 
 ## 🌐 Socials:
