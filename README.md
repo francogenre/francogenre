@@ -5,7 +5,7 @@ Actualmente estudio la Tecnicatura Universitaria en Programación en la Universi
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-sebasti%C3%A1n-genre-7a951a213/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/brocheriano) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Franco-Sebasti-n-Genre) 
-[![CodeWars](https://www.codewars.com/users/Nippur/badges/large)](https://www.codewars.com/users/Nippur)
+[![CodeWars](https://www.codewars.com/users/Nippur/badges/small)](https://www.codewars.com/users/Nippur)
 
 
 # 💻 Tech Stack:
