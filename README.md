@@ -1,15 +1,15 @@
 # 💫 About Me:
 ¡Hola! Soy Franco, actualmente trabajo en el rubro de las energías renovables, y desde hace unos años decidí dar un giro a mi carrera hacia la programación, por lo que comencé a prepararme para ello.
 Estoy terminando mis estudios de la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional de San Rafael, Mendoza, Argentina.
-Quisiera mencionar a mis profesores [@ArielBetancud22](https://github.com/ArielBetancud22) y [@natyylu](https://github.com/natyylu) por acompañarme durante estos dos años de cursada.
+Quisiera mencionar a mis profesores [Ariel Betancud](https://github.com/ArielBetancud22) y [Natalia Lucero](https://github.com/natyylu) por acompañarme durante estos dos años de cursada.
 
 Y también un gran agradecimiento especial a mis compañeros de equipo, devenidos en grandes amigos, que fueron un sostén enorme durante estos años de cursada.
-- [@Marianoleonardofarias](https://github.com/Marianoleonardofarias)
-- [@Aguppesce](https://github.com/Aguppesce)
-- [@BraianTroncoso](https://github.com/BraianTroncoso)
-- [@TanitoCode](https://github.com/TanitoCode)
-- [@SantSR](https://github.com/SantSR)
-- [@SebasGalvan](https://github.com/SebasGalvan)
+- [Mariano Farías](https://github.com/Marianoleonardofarias)
+- [Agustín Pesce](https://github.com/Aguppesce)
+- [Braian Troncoso](https://github.com/BraianTroncoso)
+- [Cristian Sanchez](https://github.com/TanitoCode)
+- [Santiago Mendoza](https://github.com/SantSR)
+- [Sebastián Galván](https://github.com/SebasGalvan)
 
 ¡Gracias a todos por su colaboración, enseñanza y apoyo! 😈
 
