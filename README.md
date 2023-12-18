@@ -1,9 +1,8 @@
 # 💫 About Me:
 ¡Hola! Soy Franco, actualmente trabajo en el rubro de las energías renovables, y desde hace unos años decidí dar un giro a mi carrera hacia la programación, por lo que comencé a prepararme para ello.
-Estoy terminando mis estudios de la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional de San Rafael, Mendoza, Argentina.
-Quisiera mencionar a los profesores [Ariel Betancud](https://github.com/ArielBetancud22) y [Natalia Lucero](https://github.com/natyylu) por la predisposición durante estos años de cursada, por lo transmitido, y por su paciencia.
+Terminé recientemente mis estudios de la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional de San Rafael, Mendoza, Argentina.
 
-Y también un gran agradecimiento especial a mis compañeros de equipo, devenidos en grandes amigos, que fueron un sostén enorme durante estos años de cursada.
+Quisiera hacer una mención a mis compañeros de equipo, devenidos en grandes amigos, que fueron un sostén enorme durante estos años de cursada.
 - [Mariano Farías](https://github.com/Marianoleonardofarias)
 - [Agustín Pesce](https://github.com/Aguppesce)
 - [Braian Troncoso](https://github.com/BraianTroncoso)
